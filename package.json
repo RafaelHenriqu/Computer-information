@@ -1,0 +1,20 @@
+{
+  "name": "computer-information",
+  "version": "0.0.3",
+  "description": "Simplifying the `os` library, with few commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Comput",
+    "Information",
+    "System",
+    "CPU",
+    "Memory",
+    "Desktop"
+  ],
+  "author": "Sr_XGRF",
+  "license": "ISC",
+  "devDependencies": {}
+}
